@@ -3,4 +3,4 @@ kind: Pod
 metadata:
   name: rss-site
   labels:
-    app: web
+    app: web2
